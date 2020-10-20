@@ -1,0 +1,8 @@
+
+TODO
+
+- polish ui Home
+- onBoarding
+2. Save Last Login
+4. LogOut
+lengkapin data
